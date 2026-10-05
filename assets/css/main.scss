@@ -1,0 +1,17 @@
+---
+---
+
+@import "minimal-mistakes";
+
+@media (min-width: 64em) {
+  .sidebar {
+    opacity: 1;
+  }
+}
+
+.page__content hr {
+  border: 0;
+  border-top: 3px solid #4c4f69;
+  margin: 2em 0;
+  opacity: 1;
+}

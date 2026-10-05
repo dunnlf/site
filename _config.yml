@@ -9,7 +9,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Loki Dunn - Personal Website"
+title: ""
 email:
 repository: dunnlf/site
 description: >-
@@ -26,7 +26,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dunnlf"
 
-    - label: "StatML page"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lokidunn"
+
+    - label: "StatML profile"
       icon: 
       url: "https://statml.io/students/loki-dunn/"
 
@@ -35,11 +39,17 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dunnlf"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/lokidunn"
+
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "catppuccin_latte"
 search: true
 # Outputting
 permalink: /:categories/:title/

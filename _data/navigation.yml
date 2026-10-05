@@ -1,6 +1,7 @@
 main:
-  - title: "Blog"
+  - title: "Research Notes"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Teaching"
+    url: /teaching/
+
 

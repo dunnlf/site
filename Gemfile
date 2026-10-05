@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
+gem "csv"
+gem "bigdecimal"
+gem "liquid", "4.0.4"
+gem "webrick"
 
 gem "tzinfo-data"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
