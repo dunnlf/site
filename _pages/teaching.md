@@ -5,7 +5,9 @@ layout: single
 author_profile: true
 ---
 
-I started teaching maths at Imperial College London as a peer tutor in 2023, and have since been a Graduate Teaching Assistant to various modules on the undergraduate Mathematics degree. I am a tutor at [1729 Maths School](https://1729mathsschool.org.uk/), the UK's first specialist maths school for ages 11-18.
+I started teaching maths at Imperial College London as a peer tutor in 2023, and have since been a Graduate Teaching Assistant to various modules on the undergraduate Mathematics degree.
+
+I am a tutor at [1729 Maths School](https://1729mathsschool.org.uk/), the UK's first specialist maths school for ages 11-18.
 
 <hr>
 

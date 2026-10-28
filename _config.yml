@@ -20,7 +20,7 @@ github_username: dunnlf
 author:
   name   : "Loki Dunn"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD Student in statistics and machine learning."
+  bio    : "PhD Student in statistics and machine learning at Imperial College London. Supervised by [Dr Robin Ryder](https://sites.google.com/site/robryd/)."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
